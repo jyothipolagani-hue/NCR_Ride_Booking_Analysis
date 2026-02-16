@@ -1,4 +1,4 @@
-![Dashboard_screenshort](https://github.com/user-attachments/assets/fcd9be1b-94b8-43de-b5f7-54a5354892cc)NCR Ride Booking Analysis Dashboard – Power BI Project
+NCR Ride Booking Analysis Dashboard – Power BI Project
 📌 Project Overview
 
 The NCR Ride Booking Dashboard is an interactive Power BI report designed to analyze ride booking performance across the National Capital Region (NCR).
